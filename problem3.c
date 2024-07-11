@@ -17,6 +17,7 @@ int main(void)
                 num /= i;
     }
     printf("biggest prime factor: %i\n", num);
+    return 0;
 }
 
 // O(sqrt n)
